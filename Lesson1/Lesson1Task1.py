@@ -1,0 +1,10 @@
+a=1
+print(a)
+b=('Невероятно')
+print (b)
+v=int(input())
+d=int(input())
+print (v+d)
+s=str(input())
+w=str(input())
+print (s+w)
